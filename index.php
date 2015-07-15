@@ -1,5 +1,4 @@
 <?php
-
 /*
  *  CONTROLLER for edcarchitect.com
  */
