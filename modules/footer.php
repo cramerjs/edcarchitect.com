@@ -4,10 +4,10 @@
  */
 ?>
 
-        
+
           <footer class="footer">
             <div class="row">
-              <div class="col-md-8 col-md-offset-2">
+              <div class="col-md-8 col-md-offset-2 text-center">
                 <a href="index.php?action=site_plan">Site Plan</a> | Elvin Dee Cramer Architect &copy; <?php echo date("Y"); ?> | 702-349-3551 | elvin@edcarchitect.com
               </div>
             </div>

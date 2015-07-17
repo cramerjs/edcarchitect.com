@@ -3,11 +3,13 @@ include 'modules/head.php';
 include 'modules/nav.php';
 ?>
 
-<main>
+<main class="container">
     <h1>About</h1>
 
     <hr />
 
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 well">
     <h2>Purpose Statement</h2>
     <p>Elvin is in search of clients who understand and appreciate exceptional architecture and who are coming to him to get an "Elvin Cramer design."
 
@@ -41,22 +43,8 @@ include 'modules/nav.php';
 
     <h4>Country</h4>
     <p>Elvin is a patriot. He loves the United States of America and strives to preserve traditional American values like hard-work, honesty, and responsibility. He currently serves as a Scoutmaster in the Boy Scouts of America and has for many years. Fly-Fishing is his favorite, but he wouldn't turn down anything "outdoors" with the Scouts.</p>
-
-    <hr />
-
-    <h2>Contact</h2>
-    <table id="contact">
-            <tbody>
-                <tr>
-                    <td class="contact">Phone: </td>
-                    <td class="contact">702-349-3551</td>
-                </tr>
-                <tr>
-                    <td class="contact">Email: </td>
-                    <td class="contact">elvin@edcarchitect.com</td>
-                </tr>
-            </tbody>
-        </table>
+    </div>
+</div>
 </main>
 
 <?php include 'modules/footer.php'; ?>

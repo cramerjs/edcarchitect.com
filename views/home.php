@@ -43,6 +43,7 @@ include 'modules/nav.php';
   </div>
 </main>
 
-<div class="space-12"></div>
+<br>
+<br>
 
 <?php include 'modules/footer.php'; ?>
