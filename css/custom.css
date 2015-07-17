@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #704C94;
+}
+
+a {
+  color: #704C94;
+}
+
+.navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #FF8E01;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  background-color: #A58EBC;
+  color: #000000;
+}
+
+#home-logo  {
+  max-height: 200px;
+}

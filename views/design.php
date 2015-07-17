@@ -1,13 +1,13 @@
 <?php
-include '/modules/head.php';
-include '/modules/nav.php';
+include 'modules/head.php';
+include 'modules/nav.php';
 ?>
         <!--style="background-image:url('images/background.jpg');
         background-size:50%;
         background-repeat:no-repeat;
         background-attachment:fixed;
         background-position:-5% -19%;"-->
-        
+
         <main id="design">
             <ul>
                 <li><img src="images/nsboa3.jpg" alt="NVS Board of Architecture" title="NVS Board of Architecture"/></li>
@@ -37,4 +37,4 @@ include '/modules/nav.php';
                 <li><img src="images/gazebo2.jpg" alt="Gazebo" title="Gazebo"/></li>
             </ul>
         </main>
-<?php include '/modules/footer.php'; ?>
+<?php include 'modules/footer.php'; ?>

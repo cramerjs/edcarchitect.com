@@ -18,8 +18,9 @@ session_start();
         <title>EDCArchitect - <?php echo " " . $title; ?></title>
         <link href="css/main.css" rel="stylesheet" type="text/css" media="screen"/>
     </head>
-    
+
     <body>
+      <div class="container">
         <header>
             <h1><img src="images/edc_name.jpg" alt="Elvin Dee Cramer" title="Elvin Dee Cramer"></h1>
         </header>
