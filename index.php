@@ -12,6 +12,8 @@ if (isset($_POST['action'])) {
 } elseif (isset($_GET['action'])) {
     $action = $_GET['action'];
     // $action = filterSting($_GET['action']);
+} else {
+    $action = '';
 }
 
 // perform an action based on the trigger

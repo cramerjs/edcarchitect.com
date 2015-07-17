@@ -22,3 +22,7 @@ a {
 #home-logo  {
   max-height: 200px;
 }
+
+.design-image {
+    max-width: 300px;
+}
