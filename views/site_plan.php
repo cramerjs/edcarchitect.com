@@ -1,16 +1,16 @@
 <?php
-/* 
- *  SITE PLAN for edcarchitect.com
- */
 include '/modules/head.php';
 include '/modules/nav.php'; 
 ?>    
-    <main>
+
+<main class="container">
         
     <h1>Site Plan</h1>
     
     <hr />
-    
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1 well">
         <h2>Site Purpose</h2>
         <p>Edcarchitect.com attracts clients who appreciate and want excellent architecture.  
            It does this by 1) showcasing photos and images of Elvin’s past commercial, 
@@ -18,7 +18,6 @@ include '/modules/nav.php';
            to Elvin and assessing their understanding of architecture.</p>
         
         <hr />
-        
         
         <h2>Target Audience</h2>
         <h4>Physical Description</h4>
@@ -205,7 +204,9 @@ include '/modules/nav.php';
         <h5>Smart Phone</h5>
         <img src="images/mockup_3.png" alt="Smart Phone Mockup" title="Smart Phone Mockup">
         <br />
-    
-    </main>    
+
+        </div>
+    </div>
+</main>    
         
 <?php include '/modules/footer.php'; ?>

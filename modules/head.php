@@ -12,7 +12,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="author" content="Joseph Cramer">
     <meta name="description" content="">
-        <title>EDCArchitect - <?php echo " " . $title; ?></title>
+        <title>EDC Architect - <?php echo " " . $title; ?></title>
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen"/>

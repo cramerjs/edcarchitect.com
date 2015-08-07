@@ -1,9 +1,9 @@
 .navbar {
-  background-color: #704C94;
+  background-color: #330065;
 }
 
 a {
-  color: #704C94;
+  color: #330065;
 }
 
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-nav > li > a {
@@ -11,11 +11,11 @@ a {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-  color: #FF8E01;
+  color: #FE0000;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-  background-color: #A58EBC;
+  background-color: #BFBFBF;
   color: #000000;
 }
 
@@ -25,4 +25,8 @@ a {
 
 .design-image {
     max-width: 300px;
+}
+
+.home-image {
+    width: 100%;
 }

@@ -1,9 +1,7 @@
 <?php
-
 /*
  * NAVIGATION MODULE for edcarchitect.com
  */
-
 ?>
 <body>
     <header>

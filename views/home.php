@@ -4,11 +4,6 @@ include 'modules/nav.php';
 ?>
 
 <main class="container">
-    <!-- <div class="row">
-      <div class="col-md-2 col-md-offset-5 text-center">
-        <img src="../images/home_logo.jpg" alt="EDCArchitectLogo" title="EDCArchitectLogo" id='home-logo'/>
-      </div>
-    </div> -->
 
   <div id="home-carousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -21,10 +16,10 @@ include 'modules/nav.php';
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="images/nsboa3.jpg" alt="NVS Board of Architecture">
+        <img src="images/nsboa3.jpg" alt="NVS Board of Architecture" class="home-image">
       </div>
       <div class="item">
-        <img src="images/nsboa.jpg" alt="NVS Board of Architecture">
+        <img src="images/nsboa.jpg" alt="NVS Board of Architecture" class="home-image">
       </div>
       <!-- <div class="item">
         <img src="images/45th_south.jpg" alt="45th South">
