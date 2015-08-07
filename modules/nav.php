@@ -6,6 +6,7 @@
 
 ?>
 <body>
+    <?php include_once("analyticstracking.php") ?>
     <header>
       <nav class="navbar navbar-default">
         <div class="container-fluid">

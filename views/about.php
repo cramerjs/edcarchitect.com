@@ -33,16 +33,16 @@ include 'modules/nav.php';
     <hr />
 
     <h2>Bio</h2>
-    <p>Elvin Cramer has been the Sole Proprietor of Elvin Dee Cramer since 1990. He went to college at BYU, then filled an apprenticeship with a firm in Utah. He then earned his license in Nevada where he began his firm.</p>
+    <p>Elvin Cramer is the Sole Proprietor of Elvin Dee Cramer. He went to college at BYU, then filled an apprenticeship with a firm in Utah. He earned his Utah license in 1990. He then moved to Las Vegas and earned his Nevada license in 1993 where he began his firm.</p>
 
     <h4>Family</h4>
-    <p>Family is Elvin's number 1 priority. Elvin is happily married to his wife of 34 years, and every one of his 4 children and 5 grandchildren love him dearly.</p>
+    <p>Family is Elvin's #1 priority. Elvin is happily married to his wife of 34 years, and every one of his 4 children and 5 grandchildren love him dearly.</p>
 
     <h4>Faith</h4>
-    <p>Elvin's strong devotion to his family comes from his faith in God. Elvin is a member of the Church of Jesus Christ of Latter-day Saints, usually known as the Mormons or LDS. One of the most foundational beliefs of the Church is that we are all part of our Heavenly Father's family, and that our own families can potentially last forever.</p>
+    <p>Elvin's strong devotion to his family comes from his faith in God. Elvin is a member of the Church of Jesus Christ of Latter-day Saints, usually known as the Mormons or LDS. One of the most foundational beliefs of the Church is that we are all part of our Heavenly Father's family, and that our families can potentially last forever.</p>
 
     <h4>Country</h4>
-    <p>Elvin is a patriot. He loves the United States of America and strives to preserve traditional American values like hard-work, honesty, and responsibility. He currently serves as a Scoutmaster in the Boy Scouts of America and has for many years. Fly-Fishing is his favorite, but he wouldn't turn down anything "outdoors" with the Scouts.</p>
+    <p>Elvin is a patriot. He loves the United States of America and strives to preserve traditional American values like hard-work, honesty, and responsibility. He currently serves as a Scoutmaster in the Boy Scouts of America and has for many years. Fly-Fishing is his favorite.</p>
     </div>
 </div>
 </main>
